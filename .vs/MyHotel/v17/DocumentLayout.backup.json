@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C# test\\MyHotel\\MyHotel\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|d:\\c# test\\myhotel\\myhotel\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|solutionrelative:data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|d:\\c# test\\myhotel\\myhotel\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|d:\\c# test\\myhotel\\myhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|d:\\c# test\\myhotel\\myhotel\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|d:\\c# test\\myhotel\\myhotel\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB5D9E3-310F-43A3-9D0C-4A8E3D14FC88}|MyHotel.csproj|solutionrelative:controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\C# test\\MyHotel\\MyHotel\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\C# test\\MyHotel\\MyHotel\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:56:24.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\C# test\\MyHotel\\MyHotel\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\C# test\\MyHotel\\MyHotel\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:57:03.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# test\\MyHotel\\MyHotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C# test\\MyHotel\\MyHotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:42:34.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "D:\\C# test\\MyHotel\\MyHotel\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiContext.cs",
+              "ToolTip": "D:\\C# test\\MyHotel\\MyHotel\\Data\\ApiContext.cs",
+              "RelativeToolTip": "Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T18:47:54.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "D:\\C# test\\MyHotel\\MyHotel\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelController.cs",
+              "ToolTip": "D:\\C# test\\MyHotel\\MyHotel\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "Controllers\\HotelController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:39:00.786Z",
+              "EditorCaption": ""
             }
           ]
         }

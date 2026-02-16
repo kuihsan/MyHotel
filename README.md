@@ -36,5 +36,5 @@ A simple Hotel Room Booking API built using ASP.NET Core Web API and Entity Fram
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-github-link>
+git clone https://github.com/kuihsan/MyHotel.git
 cd MyHotel
